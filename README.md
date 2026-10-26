@@ -1,5 +1,7 @@
 # Cadastro simplificado de usuários
 
+Repositório público: https://github.com/Eduardormdev/cadastro-simplificado
+
 Projeto acadêmico de cadastro com PHP, MySQL e HTML. O formulário recebe nome, e-mail e senha, valida os dados no navegador e no servidor e grava os registros no banco de dados.
 
 ## Recursos
